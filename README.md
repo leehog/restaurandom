@@ -1,6 +1,6 @@
 ### Start your emulator:
 
-For example, majje is using the apt-package 'emulator', and will therefore:
+For example, Leo is using the apt-package 'emulator', and will therefore:
 
 List his available virtual devices:
 
