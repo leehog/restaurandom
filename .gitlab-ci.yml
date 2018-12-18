@@ -1,0 +1,10 @@
+image: node:latest
+
+flow:
+  script:
+    - npm install
+    - npm run flow
+eslint:
+  script:
+    - npm install
+    - npm run eslint

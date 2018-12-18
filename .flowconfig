@@ -1,0 +1,17 @@
+[untyped]
+.*/node_modules/.*
+
+[declarations]
+
+[ignore]
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+suppress_type=$FlowFixMe
+
+[strict]
